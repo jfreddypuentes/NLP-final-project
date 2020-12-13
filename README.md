@@ -12,3 +12,9 @@ El proyecto final de la clase de NLP se trata de un [chat](https://nlpchat.web.a
 ## Diagrama de Arquitectura
 ![Diagrama de Arquitectura](img_diagrama_arquitectura.png)
 
+## Componentes de API
+![Componentes de API](img_componentes_backend.png)
+
+## Chat
+![Chat-1](img_chat_1.png)
+![Chat-2](img_chat_2.png)
