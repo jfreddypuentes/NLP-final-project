@@ -10,3 +10,5 @@ El proyecto final de la clase de NLP se trata de un [chat](https://nlpchat.web.a
 3. API. Conjunto de servicios web que soportan el envio, la recepción, procesamiento y almacenamiento de los mensajes, sentimientos y caracteristicas linguisticas.
 
 ## Diagrama de Arquitectura
+![Diagrama de Arquitectura](img_diagrama_arquitectura.png)
+
