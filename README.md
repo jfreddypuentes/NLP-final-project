@@ -16,5 +16,8 @@ El proyecto final de la clase de NLP se trata de un [chat](https://nlpchat.web.a
 ![Componentes de API](img_componentes_backend.png)
 
 ## Chat
+### Home
 ![Chat-1](img_chat_1.png)
+
+### Chat
 ![Chat-2](img_chat_2.png)
