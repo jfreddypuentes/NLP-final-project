@@ -36,3 +36,5 @@ El proyecto final de la clase de NLP se trata de un [chat](https://nlpchat.web.a
 * [@normacalamartinez](https://github.com/normacalamartinez/) en Github (BI Developer) - Contribución al dataset de vulgaridades por país de habla hispana.
 * [@jfreddypuentes](https://github.com/jfreddypuentes) - Esta cuenta. 
 
+## Docente
+* [@vivianamarquez](https://github.com/vivianamarquez) en Github, [@vivmarquez](https://twitter.com/vivmarquez) en Twitter (Data Scientist & Mathematician)
