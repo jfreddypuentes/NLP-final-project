@@ -1,4 +1,4 @@
-# NLP Final Project
+# Proyecto Final NLP
 Proyecto final de la clase de NLP.
 
 ## ¿De qué se trata?
