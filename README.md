@@ -22,3 +22,17 @@ El proyecto final de la clase de NLP se trata de un [chat](https://nlpchat.web.a
 
 ### Chat
 ![Chat-2](img_chat_2.png)
+
+## Tecnología usada
+* Lenguajes de Programación: Python y Javascript
+* Base de datos: Algolia, Google BigQuery
+* Aplicación Web: Angular Framework
+* Análisis de Sentimientos: [Datatul](https://datatul.com/)
+* Visualización de Datos: Google Datastudio
+* Librería in-house: [Spanlp](https://github.com/jfreddypuentes/spanlp)
+
+
+## Team
+* [@normacalamartinez](https://github.com/normacalamartinez/) en Github (BI Developer) - Contribución al dataset de vulgaridades por país de habla hispana.
+* [@jfreddypuentes](https://github.com/jfreddypuentes)
+
